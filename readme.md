@@ -42,4 +42,4 @@ source ~/.bashrc
 - 预测：使用8月最后一周的数据作为初始滞后特征，预测2014年9月的购买量、赎回量。
 - 预测结果保存为tc_comp_predict_table.csv
 评分：
-!(lab4报告-4.png)
+![截图](lab4.png)
